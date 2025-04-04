@@ -38,4 +38,3 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('login', [ProductController::class,'login'] )->name ('login');
