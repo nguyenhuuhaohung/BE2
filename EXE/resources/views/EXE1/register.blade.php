@@ -55,6 +55,18 @@
             <input type="email" placeholder="Email" id="email" class="form-control" name="email" required autofocus>
             </td>
           </tr>
+          <tr>
+            <td>Line</td>
+            <td>
+            <input type="text" placeholder="Line" id="line" class="form-control" name="line" required autofocus>
+            </td>
+          </tr>
+          <tr>
+            <td>GitHub</td>
+            <td>
+            <input type="text" placeholder="GiHub" id="github" class="form-control" name="github" required autofocus>
+            </td>
+          </tr>
           <tr class="pt-4">
             <td></td>
             <td>
