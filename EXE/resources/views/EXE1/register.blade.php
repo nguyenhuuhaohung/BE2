@@ -16,7 +16,7 @@
   <body>
     <!-- Hearder -->
     <header class="border p-2 mt-5 text-center">
-      <span>Home</span> | <span>Đăng nhập</span> |
+      <span>Home</span> | <span><a href="{{ route('login') }}">Đăng nhập</a></span> |
       <span style="font-weight: bold">Đăng ký</span>
     </header>
     <!-- Login -->
