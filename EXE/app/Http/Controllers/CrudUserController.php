@@ -66,6 +66,7 @@ class CrudUserController extends Controller
             'name' => $data['name'],
             'email' => $data['email'],
             'line' => $data['line'],
+            'image' => $data['image'],
             'github' => $data['github'],
             'password' => Hash::make($data['password'])
         ]);
@@ -154,4 +155,6 @@ class CrudUserController extends Controller
 
         return Redirect('login');
     }
+ 
+
 }

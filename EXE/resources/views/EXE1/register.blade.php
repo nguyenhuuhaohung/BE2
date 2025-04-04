@@ -67,6 +67,12 @@
             <input type="text" placeholder="GiHub" id="github" class="form-control" name="github" required autofocus>
             </td>
           </tr>
+          <tr>
+            <td>GitHub</td>
+            <td>
+            <input type="file" placeholder="GiHub" id="image" class="form-control" name="image" required autofocus>
+            </td>
+          </tr>
           <tr class="pt-4">
             <td></td>
             <td>
