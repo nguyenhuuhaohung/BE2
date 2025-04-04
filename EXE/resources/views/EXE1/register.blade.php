@@ -19,7 +19,7 @@
       <span>Home</span> | <span>Đăng nhập</span> |
       <span style="font-weight: bold">Đăng ký</span>
     </header>
-
+    <h1>hello</h1>
     <!-- Login -->
     <div class="container">
       <form action="{{ route('user.postUser') }}" method="POSt">
