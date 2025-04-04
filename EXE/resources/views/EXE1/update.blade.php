@@ -55,12 +55,6 @@
               <input type="email" placeholder="Email" id="email" class="form-control" name="email" value="{{ $user->email }}" required autofocus>
             </td>
           </tr>
-          <tr>
-            <td>Phone</td>
-            <td>
-              <input type="phone" placeholder="Phone" id="phone" class="form-control" name="phone" value="{{ $user->phone }}" required autofocus>
-            </td>
-          </tr>
           <tr class="pt-4">
             <td></td>
             <td>
